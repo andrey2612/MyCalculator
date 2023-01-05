@@ -1,3 +1,4 @@
+// Я выбрал данный макет потому, что он позволяет не плодить большое количество строк кода
 package ru.andrey.mycalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
